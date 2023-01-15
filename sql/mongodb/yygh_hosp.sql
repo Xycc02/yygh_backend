@@ -13,7 +13,7 @@
 
  Date: 09/02/2022 14:33:35
 */
-
+use yygh_hosp;
 
 // ----------------------------
 // Collection structure for Department
